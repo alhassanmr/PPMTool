@@ -1,13 +1,13 @@
-package com.m.ppmtool;
+package com.m.ppmtoolbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PpmToolApplicationTests {
+class PpmToolBackendApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
